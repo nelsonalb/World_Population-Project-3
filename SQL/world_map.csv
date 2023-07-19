@@ -1,0 +1,251 @@
+,country,capital,region_id,subregion_id,continents_id
+0,Jordan,Amman,3,22,2
+1,Northern Mariana Islands,Saipan,5,9,5
+2,Serbia,Belgrade,4,17,3
+3,Andorra,Andorra la Vella,4,20,3
+4,Turks and Caicos Islands,Cockburn Town,1,1,4
+5,Bermuda,Hamilton,1,11,4
+6,Antarctica,nan,2,-1,1
+7,Bolivia,Sucre,1,15,6
+8,Libya,Tripoli,0,12,0
+9,Mali,Bamako,0,21,0
+10,Armenia,Yerevan,3,22,2
+11,Mauritius,Port Louis,0,5,0
+12,Maldives,Malé,3,19,2
+13,American Samoa,Pago Pago,5,14,5
+14,North Macedonia,Skopje,4,17,3
+15,Ethiopia,Addis Ababa,0,5,0
+16,Greenland,Nuuk,1,11,4
+17,Iraq,Baghdad,3,22,2
+18,Guatemala,Guatemala City,1,2,4
+19,Trinidad and Tobago,Port of Spain,1,1,4
+20,Peru,Lima,1,15,6
+21,Suriname,Paramaribo,1,15,6
+22,Sweden,Stockholm,4,13,3
+23,New Caledonia,Nouméa,5,8,5
+24,French Polynesia,Papeetē,5,14,5
+25,Benin,Porto-Novo,0,21,0
+26,Estonia,Tallinn,4,13,3
+27,Falkland Islands,Stanley,1,15,6
+28,Guam,Hagåtña,5,9,5
+29,Zimbabwe,Harare,0,18,0
+30,Slovakia,Bratislava,4,4,3
+31,Netherlands,Amsterdam,4,23,3
+32,Ecuador,Quito,1,15,6
+33,Saudi Arabia,Riyadh,3,22,2
+34,United Arab Emirates,Abu Dhabi,3,22,2
+35,Afghanistan,Kabul,3,19,2
+36,United States Minor Outlying Islands,Washington DC,1,11,5
+37,Central African Republic,Bangui,0,10,0
+38,Panama,Panama City,1,2,4
+39,Vatican City,Vatican City,4,20,3
+40,Syria,Damascus,3,22,2
+41,Vanuatu,Port Vila,5,8,5
+42,Honduras,Tegucigalpa,1,2,4
+43,Kiribati,South Tarawa,5,9,5
+44,Chile,Santiago,1,15,6
+45,Burkina Faso,Ouagadougou,0,21,0
+46,Saint Kitts and Nevis,Basseterre,1,1,4
+47,Saint Barthélemy,Gustavia,1,1,4
+48,Mexico,Mexico City,1,11,4
+49,China,Beijing,3,6,2
+50,Timor-Leste,Dili,3,16,5
+51,British Indian Ocean Territory,Diego Garcia,0,5,2
+52,South Sudan,Juba,0,10,0
+53,Eswatini,Mbabane,0,18,0
+54,Uzbekistan,Tashkent,3,3,2
+55,Indonesia,Jakarta,3,16,2
+56,Paraguay,Asunción,1,15,6
+57,Monaco,Monaco,4,23,3
+58,Grenada,"""St. Georges""",1,1,4
+59,Croatia,Zagreb,4,17,3
+60,Poland,Warsaw,4,4,3
+61,Bosnia and Herzegovina,Sarajevo,4,17,3
+62,Canada,Ottawa,1,11,4
+63,Portugal,Lisbon,4,20,3
+64,Brazil,Brasília,1,15,6
+65,Mauritania,Nouakchott,0,21,0
+66,Israel,Jerusalem,3,22,2
+67,Curaçao,Willemstad,1,1,4
+68,Brunei,Bandar Seri Begawan,3,16,2
+69,Angola,Luanda,0,10,0
+70,Malta,Valletta,4,20,3
+71,Belarus,Minsk,4,7,3
+72,Turkey,Ankara,3,22,2
+73,Finland,Helsinki,4,13,3
+74,Gibraltar,Gibraltar,4,20,3
+75,Bhutan,Thimphu,3,19,2
+76,Spain,Madrid,4,20,3
+77,Venezuela,Caracas,1,15,6
+78,Qatar,Doha,3,22,2
+79,Czechia,Prague,4,4,3
+80,Kuwait,Kuwait City,3,22,2
+81,Montenegro,Podgorica,4,17,3
+82,Bouvet Island,nan,2,-1,1
+83,India,New Delhi,3,19,2
+84,New Zealand,Wellington,5,0,5
+85,Jamaica,Kingston,1,1,4
+86,Cayman Islands,George Town,1,1,4
+87,San Marino,City of San Marino,4,20,3
+88,Republic of the Congo,Brazzaville,0,10,0
+89,Pakistan,Islamabad,3,19,2
+90,France,Paris,4,23,3
+91,Kazakhstan,Nur-Sultan,3,3,2
+92,Bahrain,Manama,3,22,2
+93,Fiji,Suva,5,8,5
+94,Iceland,Reykjavik,4,13,3
+95,Myanmar,Naypyidaw,3,16,2
+96,Bangladesh,Dhaka,3,19,2
+97,Philippines,Manila,3,16,2
+98,Equatorial Guinea,Malabo,0,10,0
+99,Ireland,Dublin,4,13,3
+100,Nepal,Kathmandu,3,19,2
+101,Yemen,"""Sanaa""",3,22,2
+102,South Korea,Seoul,3,6,2
+103,Denmark,Copenhagen,4,13,3
+104,Oman,Muscat,3,22,2
+105,Saint Vincent and the Grenadines,Kingstown,1,1,4
+106,Eritrea,Asmara,0,5,0
+107,Australia,Canberra,5,0,5
+108,Iran,Tehran,3,19,2
+109,El Salvador,San Salvador,1,2,4
+110,Tanzania,Dodoma,0,5,0
+111,Guadeloupe,Basse-Terre,1,1,4
+112,Solomon Islands,Honiara,5,8,5
+113,Kenya,Nairobi,0,5,0
+114,Dominican Republic,Santo Domingo,1,1,4
+115,Greece,Athens,4,20,3
+116,Guernsey,St. Peter Port,4,13,3
+117,Rwanda,Kigali,0,5,0
+118,Saint Pierre and Miquelon,Saint-Pierre,1,11,4
+119,Tuvalu,Funafuti,5,14,5
+120,Taiwan,Taipei,3,6,2
+121,Guyana,Georgetown,1,15,6
+122,Seychelles,Victoria,0,5,0
+123,North Korea,Pyongyang,3,6,2
+124,Botswana,Gaborone,0,18,0
+125,Cambodia,Phnom Penh,3,16,2
+126,Barbados,Bridgetown,1,1,4
+127,Colombia,Bogotá,1,15,6
+128,Ukraine,Kyiv,4,7,3
+129,Ivory Coast,Yamoussoukro,0,21,0
+130,Nauru,Yaren,5,9,5
+131,Namibia,Windhoek,0,18,0
+132,Chad,"""NDjamena""",0,10,0
+133,Tonga,"""Nukualofa""",5,14,5
+134,Argentina,Buenos Aires,1,15,6
+135,Christmas Island,Flying Fish Cove,5,0,2
+136,Niger,Niamey,0,21,0
+137,Marshall Islands,Majuro,5,9,5
+138,Costa Rica,San José,1,2,4
+139,Ghana,Accra,0,21,0
+140,Austria,Vienna,4,4,3
+141,"Saint Helena, Ascension and Tristan da Cunha",Jamestown,0,21,0
+142,Palestine,"Ramallah, Jerusalem",3,22,2
+143,Cuba,Havana,1,1,4
+144,Hungary,Budapest,4,4,3
+145,Micronesia,Palikir,5,9,5
+146,Belize,Belmopan,1,2,4
+147,Bahamas,Nassau,1,1,4
+148,Aruba,Oranjestad,1,1,4
+149,São Tomé and Príncipe,São Tomé,0,10,0
+150,Russia,Moscow,4,7,3
+151,Luxembourg,Luxembourg,4,23,3
+152,Faroe Islands,Tórshavn,4,13,3
+153,Nicaragua,Managua,1,2,4
+154,Tunisia,Tunis,0,12,0
+155,DR Congo,Kinshasa,0,10,0
+156,Svalbard and Jan Mayen,Longyearbyen,4,13,3
+157,South Africa,"Pretoria, Bloemfontein, Cape Town",0,18,0
+158,Sierra Leone,Freetown,0,21,0
+159,Lesotho,Maseru,0,18,0
+160,South Georgia,King Edward Point,2,-1,1
+161,Italy,Rome,4,20,3
+162,Djibouti,Djibouti,0,5,0
+163,Heard Island and McDonald Islands,nan,2,-1,1
+164,Sri Lanka,Sri Jayawardenepura Kotte,3,19,2
+165,Saint Lucia,Castries,1,1,4
+166,Samoa,Apia,5,14,5
+167,Cocos (Keeling) Islands,West Island,5,0,2
+168,Puerto Rico,San Juan,1,1,4
+169,Gabon,Libreville,0,10,0
+170,Turkmenistan,Ashgabat,3,3,2
+171,Latvia,Riga,4,13,3
+172,Senegal,Dakar,0,21,0
+173,Belgium,Brussels,4,23,3
+174,Moldova,Chișinău,4,7,3
+175,Liechtenstein,Vaduz,4,23,3
+176,Malawi,Lilongwe,0,5,0
+177,Lebanon,Beirut,3,22,2
+178,Mongolia,Ulan Bator,3,6,2
+179,Norway,Oslo,4,13,3
+180,British Virgin Islands,Road Town,1,1,4
+181,Cameroon,Yaoundé,0,10,0
+182,Thailand,Bangkok,3,16,2
+183,Nigeria,Abuja,0,21,0
+184,Réunion,Saint-Denis,0,5,0
+185,Cape Verde,Praia,0,21,0
+186,Jersey,Saint Helier,4,13,3
+187,Algeria,Algiers,0,12,0
+188,Laos,Vientiane,3,16,2
+189,Caribbean Netherlands,Kralendijk,1,1,4
+190,Azerbaijan,Baku,3,22,2
+191,Sint Maarten,Philipsburg,1,1,4
+192,Morocco,Rabat,0,12,0
+193,Åland Islands,Mariehamn,4,13,3
+194,Bulgaria,Sofia,4,17,3
+195,Burundi,Gitega,0,5,0
+196,Uganda,Kampala,0,5,0
+197,Kosovo,Pristina,4,17,3
+198,Mozambique,Maputo,0,5,0
+199,Georgia,Tbilisi,3,22,2
+200,United Kingdom,London,4,13,3
+201,Wallis and Futuna,Mata-Utu,5,14,5
+202,Pitcairn Islands,Adamstown,5,14,5
+203,Romania,Bucharest,4,17,3
+204,Vietnam,Hanoi,3,16,2
+205,French Southern and Antarctic Lands,Port-aux-Français,2,-1,1
+206,Western Sahara,El Aaiún,0,12,0
+207,Japan,Tokyo,3,6,2
+208,Egypt,Cairo,0,12,0
+209,Liberia,Monrovia,0,21,0
+210,Lithuania,Vilnius,4,13,3
+211,Haiti,Port-au-Prince,1,1,4
+212,United States Virgin Islands,Charlotte Amalie,1,1,4
+213,Papua New Guinea,Port Moresby,5,8,5
+214,Hong Kong,City of Victoria,3,6,2
+215,Kyrgyzstan,Bishkek,3,3,2
+216,Palau,Ngerulmud,5,9,5
+217,Madagascar,Antananarivo,0,5,0
+218,Gambia,Banjul,0,21,0
+219,Togo,Lomé,0,21,0
+220,Tokelau,Fakaofo,5,14,5
+221,Slovenia,Ljubljana,4,4,3
+222,Singapore,Singapore,3,16,2
+223,French Guiana,Cayenne,1,15,6
+224,United States,"Washington, D.C.",1,11,4
+225,Montserrat,Plymouth,1,1,4
+226,Malaysia,Kuala Lumpur,3,16,2
+227,Germany,Berlin,4,23,3
+228,Antigua and Barbuda,"""Saint Johns""",1,1,4
+229,Saint Martin,Marigot,1,1,4
+230,Somalia,Mogadishu,0,5,0
+231,Macau,nan,3,6,2
+232,Albania,Tirana,4,17,3
+233,Mayotte,Mamoudzou,0,5,0
+234,Dominica,Roseau,1,1,4
+235,Zambia,Lusaka,0,5,0
+236,Anguilla,The Valley,1,1,4
+237,Cook Islands,Avarua,5,14,5
+238,Martinique,Fort-de-France,1,1,4
+239,Guinea,Conakry,0,21,0
+240,Comoros,Moroni,0,5,0
+241,Niue,Alofi,5,14,5
+242,Switzerland,Bern,4,23,3
+243,Norfolk Island,Kingston,5,0,5
+244,Isle of Man,Douglas,4,13,3
+245,Sudan,Khartoum,0,12,0
+246,Tajikistan,Dushanbe,3,3,2
+247,Uruguay,Montevideo,1,15,6
+248,Cyprus,Nicosia,4,20,3
+249,Guinea-Bissau,Bissau,0,21,0
