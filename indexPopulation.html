@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Population by Region & Subregion</title>
+
+    <!-- D3 library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  </head>
+  <body>
+
+    <!-- The div where we'll insert our map *found putting charts in table to get side by side on stackoverflow -->
+    <b> Change the Region to See the Population by Subregion </b> 
+    <select id="selDataset">
+      <option value="Asia">Asia</option>
+      <option value="Africa">Africa</option>
+      <option value="Americas">Americas</option>
+      <option value="Europe">Europe</option>
+      <option value="Oceania">Oceania</option>
+  </select>
+  <table>
+    <tr>
+        <td><div id="pie" style="width: 700px; height: 300px;"></div></td>
+        <td><div id="pie2" style="width: 300px; height: 300px;"></div></td>
+    </tr>
+ <table>
+
+    <!-- Our JavaScript -->
+    <script type="text/javascript" src="static/js/logic2.js"></script>
+
+    
+
+  </body>
+</html>
