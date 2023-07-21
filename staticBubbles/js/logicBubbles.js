@@ -95,7 +95,7 @@ d3.json(url).then(function(response) {
     var div = L.DomUtil.create("div", "info legend"),
     area = [0, 10000, 100000, 1000000, 5000000, 10000000];
 
-    div.innerHTML += "<h3 style='text-align: center'>Area (sqkm)</h3>"
+    div.innerHTML += "<h3 style='text-align: center'>Area (km2)</h3>"
 
     for (var i = 0; i < area.length; i++) {
       div.innerHTML +=
