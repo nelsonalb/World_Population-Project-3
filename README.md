@@ -26,7 +26,7 @@ For Project 3, you will work with your group to tell a story using data visualiz
 
 The main branch of the GitHub repository contains three HTML files that perform the following functions:
 
-1. indexMarkers.html accesses the CSS and JavaScript files inside of the staticMarkers folder. The logic.js file inside the js folder contains JavaScript code that displays a map containing color-coded pin markers that provide more information upon clicking.
+1. indexK.html accesses the CSS and JavaScript files inside of the staticMarkers folder. The logic.js file inside the js folder contains JavaScript code that displays a map containing color-coded pin markers that provide more information upon clicking.
 
 2. indexBubbles.html accesses the CSS and JavaScript files inside of the staticBubbles folder. The bubbles.js file inside of the js folder contains JavaScript code that displays a map containing circle markers whose colors and sizes are based on land area and population data, respectively.
 
