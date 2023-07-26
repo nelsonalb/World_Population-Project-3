@@ -168,19 +168,23 @@ d3.json(url).then(function(response) {
   
 
   //Add legend
-  var legend = L.control({position: "bottomright"});
-  legend.onAdd = function() {
-    var div = L.DomUtil.create("div", "info legend"),
-    depth = [-10, 10, 20, 30, 50, 70, 90];
+ // Add legend
+var legend = L.control({ position: "bottomright" });
+legend.onAdd = function() {
+  var div = L.DomUtil.create("div", "info legend"),
+    continents = ['Asia', 'Oceania', 'Europe', 'North America', 'South America', 'Antarctica', 'Africa'];
 
-    div.innerHTML += "<h3 style='text-align: center'>Depth</h3>"
+  div.innerHTML += "<h3 style='text-align: center'>Continents</h3>";
 
-    for (var i = 0; i < depth.length; i++) {
-      div.innerHTML +=
-      '<i style="background:' + chooseColor(depth[i] + 1) + '"></i> ' + depth[i] + (depth[i + 1] ? '&ndash;' + depth[i + 1] + '<br>' : '+');
-    }
-    return div;
-  };
-  
+  for (var i = 0; i < continents.length; i++) {
+    div.innerHTML +=
+      '<i style="background:' + legendColor(continents[i]) + '"></i> ' + continents[i] + '<br>';
+  }
+  return div;
+};
+
+legend.addTo(myMap); // Add the legend to the map
+
+
 
 });
