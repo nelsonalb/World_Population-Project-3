@@ -4,11 +4,24 @@
     <meta charset="UTF-8">
     <title>Top 5 Most Common Languages by Region</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
-  <h1>Top 5 Most Common Languages by Region</h1>
-  <div id="result"></div>
-  <div id="charts"></div>
-  <script type="text/javascript" src="staticLanguage/js/logicLanguage.js"></script>
-</body>
+  </head>
+  <body>
+    <h1>Top 5 Most Common Languages by Region</h1>
+    <div>
+      <label for="regionSelect">Select Region:</label>
+      <select id="regionSelect" onchange="updatePieChart()">
+        <option value="">All Regions</option>
+        <option value="Africa">Africa</option>
+        <option value="Americas">Americas</option>
+        <option value="Asia">Asia</option>
+        <option value="Europe">Europe</option>
+        <option value="Oceania">Oceania</option>
+        <option value="Antarctic">Antarctic</option>
+      </select>
+    </div>
+    <div id="result"></div>
+    <div id="charts"></div>
+    <script type="text/javascript" src="staticLanguage/js/logicLanguage.js"></script>
+  </body>
 </html>
+
