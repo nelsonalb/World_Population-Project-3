@@ -38,3 +38,4 @@ The main branch of the GitHub repository contains three HTML files that perform 
 
 - All chart data/info was scraped from https://restcountries.com/v3.1/all
 - The JavaScript library Simple-Statistics was used to obtain information important to the formatting of charts (https://github.com/simple-statistics/simple-statistics).
+- The JavaScript library Charts.js was used to to create and display pie charts based on the selected region. 
